@@ -1,7 +1,7 @@
 site_url: https://amelia-ng.github.io/interview-prep/
 use_directory_urls: false
 
-site_name: Interview Prep for Data Science, Machine Learning, and AI
+site_name: Interview Handbook for Data Science, Machine Learning, and AI
 
 site_description: With an application for Automotive industry
 
@@ -39,6 +39,12 @@ theme:
     - navigation.tracking
     - navigation.path
     - content.code.copy
+    - navigation.footer
+
+plugins:
+  - search
+  - awesome-nav
+  - literate-nav
 
 markdown_extensions:
 
@@ -56,32 +62,10 @@ extra_javascript:
 
   - https://polyfill.io/v3/polyfill.min.js?features=es6
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
-
-nav:
-
-  - Home: index.md
-  - Math & Stats:
-      - Math: math-stats/math/index.md
-      - Statistics: math-stats/statistics/index.md
-  - Coding:
-      - Computer Science: coding/computer-science/index.md
-      - Data Structures: coding/data-structures/index.md
-  - Machine Learning:
-      - ML Workflow: machine-learning/ml-workflow/index.md
-      - ML Algorithms: machine-learning/ml-algorithms/index.md
-  - Deep Learning:
-      - Overview: deep-learning/index.md
-  - AI:
-      - Overview: ai/index.md
-  - Non-Technical:
-      - Behavioral: non-tech/behavioral/index.md
-      - Benefit: non-tech/benefit/index.md
-  - Automotive:
-      - Overview: automotive/index.md
-  - Experiences:
-      - Analytics: exp/analytics/index.md
-      - Project: exp/project/index.md
-      - Experience: exp/experience/index.md
+  - https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.2.2/es5/tex-mml-chtml.js
 
 
+
+extra_css:
+  - stylesheets/extra.css
  

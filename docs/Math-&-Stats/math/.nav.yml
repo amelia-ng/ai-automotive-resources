@@ -1,0 +1,6 @@
+nav:
+  - "Math Intro.md"
+  - "Vectors.md"
+  - "Matrices.md"
+  - "Dimensionality Reduction.md"
+  - "Calculus and Convex Optimization.md"
