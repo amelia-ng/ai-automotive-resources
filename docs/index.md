@@ -14,22 +14,23 @@ Contact me via: [amelianguyen.ds@gmail.com](mailto:amelianguyen.ds@gmail.com)
 
 The handbook will include the following content
 
-## I. Courses Note
-*Notes from short courses or discrete courses I found.*
+## I. Courses Notes
+
+*Notes from short courses*
 
 [1. AI for Autonomous Vehicles and Robotics]("https://amelia-ng.github.io/ai-automotive-resources/Course-Notes/Course%3A%20AI%20for%20Autonomous%20Vehicles%20and%20Robotics/Intro/") by University of Michigan.
 
-2. Introduction to Self-Driving Cars by University of Toronto
+[2. Self-Driving Cars Specialization]("https://www.coursera.org/specializations/self-driving-cars") by University of Toronto
 
-3. State Estimation and Localization for Self-Driving Cars by University of Toronto
-
-4. Visual Perception for Self-Driving Cars by University of Toronto
-
-5. Motion Planning for Self-Driving Cars by University of Toronto
+- Course 1: Introduction for Self-Driving Cars
+- Course 2: State Estimation and Localization
+- Course 3: Visual Perception 
+- Course 4: Motion Planning
 
 ## II. Resources
 
-*Cool papers or Projects (to be updated)*
+*Cool papers or Projects *
 
 1. Paper
+
 2. Cool Projects
