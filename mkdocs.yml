@@ -5,7 +5,7 @@ site_name: AI in Automotive Handbook
 
 
 theme:
-  name: swan
+  name: gitbook
 
   palette:
 
@@ -14,7 +14,7 @@ theme:
       accent: indigo
 
   font:
-    text: Lora
+    text: IBM Plex Serif
     code: JetBrains Mono
 
   features:
@@ -45,6 +45,7 @@ extra_javascript:
   - https://polyfill.io/v3/polyfill.min.js?features=es6
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
   - https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.2.2/es5/tex-mml-chtml.js
+  - javascripts/page-navigation.js
 
 
 
